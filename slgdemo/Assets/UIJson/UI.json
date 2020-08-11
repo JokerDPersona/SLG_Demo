@@ -1,0 +1,12 @@
+{
+  "_ViewInfoList": [
+    {
+      "ViewType": "MainView",
+      "Path": "Builds/MainView/MainView"
+    },
+    {
+      "ViewType": "TestPanel",
+      "Path": "Builds/TestView/TestPanel"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+/*----------------------container----------------------*/
+.container
+{
+}
+.container__row
+{
+	width:280px;
+	border-radius: 12px;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: #000;
+	flex-wrap:wrap;
+	flex-direction:row;
+}
+/*----------------------Label----------------------*/
+Label 
+{
+	align-self:center;
+    font-size: 16;
+    font-weight: bold;
+}
+/*----------------------Image----------------------*/
+.pic
+{
+	align-self:flex-start;
+	width:40px;
+	height:40px;
+	background-image:resource("unity");
+	margin: 3px 30px 3px 50px;
+}
